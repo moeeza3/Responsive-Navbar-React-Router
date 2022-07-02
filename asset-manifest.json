@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Responsive-Navbar-React-Router/static/css/main.9bf4bd38.css",
+    "main.js": "/Responsive-Navbar-React-Router/static/js/main.198d92cc.js",
+    "index.html": "/Responsive-Navbar-React-Router/index.html",
+    "main.9bf4bd38.css.map": "/Responsive-Navbar-React-Router/static/css/main.9bf4bd38.css.map",
+    "main.198d92cc.js.map": "/Responsive-Navbar-React-Router/static/js/main.198d92cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bf4bd38.css",
+    "static/js/main.198d92cc.js"
+  ]
+}
